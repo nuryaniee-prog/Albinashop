@@ -1,0 +1,20 @@
+# Local business data and credentials
+/data/
+/data-tests/
+.env
+.env.*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.sqlite-*
+*.db
+*.db-*
+*.dpapi
+*.log
+*.pid
+# Python and OS cache
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
